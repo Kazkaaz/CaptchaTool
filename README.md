@@ -18,11 +18,9 @@
 git clone https://github.com/Kazkaaz/CaptchaImg.git
 ```
 
-### Or by selecting, what you want to install:
-
-#### Install everything from [HERE](https://github.com/Kazkaaz/CaptchaImg/archive/refs/heads/main.zip)
-#### Install 100 Captcha images [HERE](about:blank)
-#### Install Captcha image generator [HERE](about:blank) (requires python)
+### Or by downloading them here:
+[![Download](https://img.shields.io/badge/Download?style=flat&label=Download
+)](https://github.com/Kazkaaz/CaptchaTool/releases/download/CaptchaTool/CaptchaTool_1.0.zip)
 
 
     
@@ -38,12 +36,10 @@ git clone https://github.com/Kazkaaz/CaptchaImg.git
 ### If you install the full tool, you should have a folder, that has these items:
 
 #### 📁 images
-#### 🗃️ CreateImages.py
-#### 📄 LICENSE
-#### 📄 README.md
+#### 🗃️ CaptchaTool.bat
 
 - In images- folder you have a 100 of pre-made captcha images. The have their answers in their names.
-- Createimages.py is a python code that helps you create more of these images. They will appear to the images- folder.
+- CaptchaTool.bat is a code that helps you create more of these images. They will appear to the images- folder.
 
 ![Demo](https://cdn.discordapp.com/attachments/1292489645891911714/1363481977168068608/captcha-demo.png?ex=6806310b&is=6804df8b&hm=8ee509593cd151c0918250b114701c7d7ce5c72bcc97ed62605391e4120fcb7e&)
 ##  👨‍💻 Author:
