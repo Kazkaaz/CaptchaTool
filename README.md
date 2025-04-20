@@ -3,7 +3,7 @@
 
 
 
-## ⭐ A modern tool to create yourself a cool I'm not a robot- verification
+## ⭐ A modern tool to create yourself infinite super- safe CAPTCHA- images
 
 
 
