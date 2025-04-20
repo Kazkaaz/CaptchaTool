@@ -1,5 +1,5 @@
 
-![Logo](https://media.discordapp.net/attachments/1292489645891911714/1363472540596703302/CaptchaTool-Banner-t.png?ex=68062841&is=6804d6c1&hm=3e63a727cab7f89c1b6441f4f3d682cbf32b9cf8227ca74ca87dc3baf5c9971e&=&format=webp&quality=lossless&width=3648&height=1824)
+![Logo](https://cdn.discordapp.com/attachments/1292489645891911714/1363501457759928462/CaptchaTool-Banner.png?ex=68064330&is=6804f1b0&hm=84e11b99d3885ec6b1f49aa75fb8e04029316307b4c733135bc1145ba04a72bf&)
 
 
 
