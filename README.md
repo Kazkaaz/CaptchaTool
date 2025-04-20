@@ -24,16 +24,18 @@ git clone https://github.com/Kazkaaz/CaptchaImg.git
 
 
     
-## ‼️ Issues
+## ‼️ Current issues
+
+(empty)
 
 ### If you have any issues, please report them on the [Issues-tab](https://github.com/Kazkaaz/CaptchaImg/issues).
 
-## ‼️ Current issues
 
-#### (there's pretty empty here)
 ## 📕 Usage
 
 ### If you install the full tool, you should have a folder, that has these items:
+
+###You must have python installed for this to work. You can install it [HERE](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=en-us&gl=FI&ocid=pdpshare)
 
 #### 📁 images
 #### 🗃️ CaptchaTool.bat
