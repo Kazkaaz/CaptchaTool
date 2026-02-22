@@ -1,50 +1,53 @@
+![Logo](https://media.discordapp.net/attachments/1292489645891911714/1363501457759928462/CaptchaTool-Banner.png?ex=68064330&is=6804f1b0&hm=84e11b99d3885ec6b1f49aa75fb8e04029316307b4c733135bc1145ba04a72bf&=&format=webp&quality=lossless&width=3648&height=1824)
 
-![logo](https://media.discordapp.net/attachments/1292489645891911714/1363501457759928462/CaptchaTool-Banner.png?ex=68064330&is=6804f1b0&hm=84e11b99d3885ec6b1f49aa75fb8e04029316307b4c733135bc1145ba04a72bf&=&format=webp&quality=lossless&width=3648&height=1824)
+## 🔐 CAPTCHA Tool
 
+A simple tool for generating unlimited secure CAPTCHA images.
 
+---
 
-## ⭐ A modern tool to create yourself infinite super- safe CAPTCHA- images
+## 📀 Installation
 
-
-
-
-
-
-##  📀 Installation
-
-### Download captcha images with GIT:
+### Option 1: Clone with Git
 
 ```bash
 git clone https://github.com/Kazkaaz/CaptchaImg.git
 ```
+### Option 2: Download the release as a zip file
 
-### Or by downloading them here:
-[![Download](https://img.shields.io/badge/Download?style=flat&label=Download
-)](https://github.com/Kazkaaz/CaptchaTool/releases/download/CaptchaTool/CaptchaTool_1.0.zip)
+---
 
+⚠️ Current Issues
 
-    
-## ‼️ Current issues
+None reported.
 
-(empty)
+If you encounter a bug or problem, please open an issue in the repository’s Issues tab:
+https://github.com/Kazkaaz/CaptchaImg/issues
 
-### If you have any issues, please report them on the [Issues-tab](https://github.com/Kazkaaz/CaptchaImg/issues).
+---
 
+## 📜 Usage
 
-## 📕 Usage
+After installing the full tool, your folder should contain:
 
-### If you install the full tool, you should have a folder, that has these items:
+📁 images
 
-###You must have python installed for this to work. You can install it [HERE](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=en-us&gl=FI&ocid=pdpshare)
+🗃️ CaptchaTool.bat
 
-#### 📁 images
-#### 🗃️ CaptchaTool.bat
+### Requirements
 
-- In images- folder you have a 100 of pre-made captcha images. The have their answers in their names.
-- CaptchaTool.bat is a code that helps you create more of these images. They will appear to the images- folder.
+You must have Python installed for the tool to work.
 
-![Demo](https://cdn.discordapp.com/attachments/1292489645891911714/1363481977168068608/captcha-demo.png?ex=6806310b&is=6804df8b&hm=8ee509593cd151c0918250b114701c7d7ce5c72bcc97ed62605391e4120fcb7e&)
-##  👨‍💻 Author:
+[Download Python here](https://www.python.org/downloads/)
 
-### [@Kazkaaz](https://www.github.com/kazkaaz)
+### Folder Contents Explained
 
+The images folder contains 100 pre-generated CAPTCHA images.
+Each image’s correct answer is included in its filename.
+
+CaptchaTool.bat is a script that generates additional CAPTCHA images.
+Newly created images will automatically appear in the images folder.
+
+👨‍💻 Author
+
+[@Kazkaaz](https://www.github.com/kazkaaz)
