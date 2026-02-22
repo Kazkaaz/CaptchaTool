@@ -1,4 +1,4 @@
-![Logo](https://media.discordapp.net/attachments/1292489645891911714/1363501457759928462/CaptchaTool-Banner.png?ex=68064330&is=6804f1b0&hm=84e11b99d3885ec6b1f49aa75fb8e04029316307b4c733135bc1145ba04a72bf&=&format=webp&quality=lossless&width=3648&height=1824)
+![Logo](https://github.com/Kazkaaz/CaptchaTool/blob/main/CaptchaTool-Banner.png?raw=true)
 
 ## 🔐 CAPTCHA Tool
 
@@ -51,3 +51,4 @@ Newly created images will automatically appear in the images folder.
 👨‍💻 Author
 
 [@Kazkaaz](https://www.github.com/kazkaaz)
+
